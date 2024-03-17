@@ -31,9 +31,9 @@ The program prompts the user to input the number of terms they want in the seque
 How to Use:
 * Run the program.
   
-*Enter the desired number of terms for the Fibonacci sequence.
+* Enter the desired number of terms for the Fibonacci sequence.
 
-*The program will generate and display the Fibonacci sequence.
+* The program will generate and display the Fibonacci sequence.
 
 **Elections Card Game**
 
@@ -72,4 +72,4 @@ Players have multiple attempts to guess the number correctly, and the computer p
 
 *Continue guessing until you either guess the magic number correctly or run out of attempts.
 
-![Guessing Game Illustration](C:\Users\user\OneDrive\Documents\python hackathon\guess.png)
+![Guessing Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/guess.png)
