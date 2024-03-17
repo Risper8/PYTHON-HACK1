@@ -1,6 +1,6 @@
 # Python Hackathon
 
-**Hello Friend, Welcome to my Dart Hackathon Repository**
+**Hello Friend, Welcome to my Python Hackathon Repository**
 
 Welcome to my Python Tasks repository! This repository contains Python programs that showcase various concepts such as functions, conditional statements, and more. Below are the details of the tasks and programs included in this repository.
 
@@ -42,7 +42,7 @@ The outcome of the election is determined by the ranks of the cards played. Play
 ![Election Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/election.png)
 
 
-*Guessing Game*: Description:The Number Guessing Game is a Python program where players attempt to guess a secret magic number chosen by the computer. 
+*Guessing Game*: Description: The Number Guessing Game is a Python program where players attempt to guess a secret magic number chosen by the computer. 
 
 Players have multiple attempts to guess the number correctly, and the computer provides feedback after each guess.
 
