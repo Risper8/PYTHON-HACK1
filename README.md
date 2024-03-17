@@ -53,7 +53,7 @@ The outcome of the election is determined by the ranks of the cards played. Play
   
 *The election outcome will be displayed based on the ranks of the cards played.
   
-![Election Game Illustration](C:\Users\user\OneDrive\Documents\python hackathon\election.png)
+![Election Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/election.png)
 
 
 **Guessing Game**
