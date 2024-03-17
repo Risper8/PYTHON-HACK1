@@ -1,4 +1,4 @@
-# PYTHON Hackathon
+# Python Hackathon
 
 ## Challenge Tasks
 
