@@ -38,7 +38,9 @@ The program prompts the user to input the number of terms they want in the seque
 *Elections Card Game*: Description: The Elections Card Game is a Python program that replicates the experience of playing face cards in real life. It simulates an election using a standard deck of playing cards. Players are dealt a hand of cards and take turns playing cards against the computer. 
 
 The outcome of the election is determined by the ranks of the cards played. Players win the election by playing high-ranking cards.
-  
+
+ *Illustration:* 
+ 
 ![Election Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/election.png)
 
 
@@ -46,6 +48,8 @@ The outcome of the election is determined by the ranks of the cards played. Play
 
 Players have multiple attempts to guess the number correctly, and the computer provides feedback after each guess.
 
+ *Illustration:* 
+ 
 ![Guessing Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/guess.png)
 
 ## **Usage:**
