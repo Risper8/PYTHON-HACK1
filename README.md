@@ -4,7 +4,9 @@
 
 Welcome to my Python Tasks repository! This repository contains Python programs that showcase various concepts such as functions, conditional statements, and more. Below are the details of the tasks and programs included in this repository.
 
-## Challenge 1 Tasks
+## Challenge
+
+Below are the tasks given for this challenge:
 
 **Functions & Fibonacci Sequence:** Write a Python program to generate the Fibonacci sequence up to a specified term n. 
 The Fibonacci sequence starts with 0 and 1 and each subsequent term is the sum of the two preceding terms.
